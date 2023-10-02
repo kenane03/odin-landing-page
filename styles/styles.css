@@ -13,7 +13,7 @@ body {
 /* HEADER */
 
 header {
-    background-color: #284177;
+    background-color: #1F325C;
     color: white;
     display: flex;
     flex-direction: column;
@@ -168,4 +168,15 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+/* BUTTONS */
+
+button {
+    border-radius: 10px;
+    border: 1px solid white;
+    padding: 10px 28px;
+    color: white;
+    font-size: 16px;
+    background-color: #006BBD;
 }
