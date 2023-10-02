@@ -14,7 +14,7 @@ body {
 
 header {
     background-color: #1F325C;
-    color: white;
+    color: #FFFFF0;
     display: flex;
     flex-direction: column;
     padding-bottom: 48px;
@@ -29,11 +29,11 @@ nav {
 }
 
 #logo {
-    width: 48px;
+    width: 64px;
 }
 
 a {
-    color: white;
+    color: #FFFFF0;
 }
 
 ul {
@@ -152,7 +152,7 @@ h3 {
 .left {
     text-align: left;
     padding-right: 164px;
-    color: white;
+    color: #FFFFF0;
 }
 
 .right {
@@ -164,7 +164,7 @@ h3 {
 footer {
     background-color: #284177;
     padding: 32px 32px;
-    color: white;
+    color: #FFFFF0;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -174,9 +174,9 @@ footer {
 
 button {
     border-radius: 10px;
-    border: 1px solid white;
+    border: 1px solid #FFFFF0;
     padding: 10px 28px;
-    color: white;
+    color: #FFFFF0;
     font-size: 16px;
     background-color: #006BBD;
 }
