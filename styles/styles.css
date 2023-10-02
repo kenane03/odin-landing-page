@@ -77,6 +77,7 @@ img {
 }
 
 .section-two h2 {
+    font-size: 32px;
     padding-bottom: 32px;
 }
 
@@ -128,6 +129,35 @@ blockquote {
 
 /* FOURTH SECTION */
 
+.section-four {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 48px;
+}
+
+.section-four .container {
+    background-color: #006BBD;
+    padding: 64px 32px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+}
+
+h3 {
+    font-size: 24px;
+    padding-bottom: 8px;
+}
+
+.left {
+    text-align: left;
+    padding-right: 164px;
+    color: white;
+}
+
+.right {
+    margin-right: 32px;
+}
 
 /* FOOTER */
 
