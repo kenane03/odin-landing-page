@@ -125,3 +125,17 @@ blockquote {
     align-self: flex-end;
     font-weight: 700;
 }
+
+/* FOURTH SECTION */
+
+
+/* FOOTER */
+
+footer {
+    background-color: #284177;
+    padding: 32px 32px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
